@@ -8,6 +8,8 @@ The app shows a live preview of your sprite sheet animation in a separate window
 
 Feel free to use it.
 
+![preview](preview.gif)
+
 ---
 
 ## Features
